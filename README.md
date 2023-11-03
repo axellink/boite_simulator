@@ -16,3 +16,32 @@ First is to really take over my opponents in this game constantly !
 
 The second, and the principle one, is to begin writing rust on a small project which took me
 an afternoon. I may have to add unit tests, maybe, if I take time at some point !!!
+
+# Results
+Since some of you may be interested in the results I have come to, here they are :
+```ignorelang
+Testing random strategy
+Average score : 5.957
+Average number of perfect : 0.111
+
+Testing highest first strategy
+Average score : 7.911
+Average number of perfect : 0.268
+
+Testing double lowest strategy
+Average score : 5.249
+Average number of perfect : 0.078
+
+Testing double highest strategy
+Average score : 5.347
+Average number of perfect : 0.081
+
+Testing even highest strategy
+Average score : 5.962
+Average number of perfect : 0.138
+
+Testing odd highest strategy
+Average score : 6.279
+Average number of perfect : 0.162
+```
+See the strategies code if you want to know more.
