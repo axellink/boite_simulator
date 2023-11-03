@@ -1,7 +1,7 @@
 # Shut the box
 For those who may not know, this is a "simulator" for the game 
 [shut the box](https://en.wikipedia.org/wiki/Shut_the_box) in order to try to find the best strategy
-not to loose the game.
+not to lose the game.
 
 The variant I'm used to play however, forces you to sum your dices dots, and to select
 one or two values that also adds up to the previous sum.
